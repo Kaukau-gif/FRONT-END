@@ -1,0 +1,33 @@
+.box {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 20px auto;
+    background-color: rgb(255, 23, 54);
+    text-align: center;
+    font-weight: bold;
+}
+p {
+    color: blue;
+    text-align: justify;
+    text-decoration: underline;
+    line-height: 1.6;
+}
+.hero {
+   
+    height: 100vh;
+    background-image: url('imagem.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.gradiente {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    margin: 40px auto;
+    padding: 15px;
+    width: 60%;
+    height: 100%;
+    background: linear-gradient(to right, rgb(0, 255, 123), rgb(255, 0, 200));
+}
